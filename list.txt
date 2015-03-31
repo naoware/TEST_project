@@ -1,0 +1,88 @@
+total 1565648
+-rw-r-----@  1 shogo  staff    1708068  1 31 14:11 00b4952c66e796fc2d000000.pdf
+-rw-r-----@  1 shogo  staff      22625  1 31 13:56 14☆学位請求書（修士） (1).docx
+-rw-r-----@  1 shogo  staff      21509  2  6 11:24 14☆学位請求書（修士） (2).docx
+-rw-r-----@  1 shogo  staff      21509  1 31 13:50 14☆学位請求書（修士）.docx
+-rw-r-----@  1 shogo  staff      97530  1 20 13:22 14☆修士論文ｽｹｼﾞｭｰﾙ (1).pdf
+-rw-r-----@  1 shogo  staff      97530  1 20 13:22 14☆修士論文ｽｹｼﾞｭｰﾙ_変更.pdf
+-rw-r-----@  1 shogo  staff      35328  3  5 20:45 14☆院研究奨励奨学生研究報告書.doc
+drwx------@  4 shogo  staff        136  1 22 22:15 1_6_73_roeisei 
+-rw-r-----@  1 shogo  staff      11146  1 22 22:10 1_6_73_roeisei .zip
+drwx------@  5 shogo  staff        170  1 20 20:06 1_6_73_盧永成
+-rw-r-----@  1 shogo  staff       1413  1 20 20:06 1_6_73_盧永成.zip
+-rw-r-----@  1 shogo  staff     693198  1 22 15:52 2014_秋学期_火5_提出レポート_15 (1).zip
+-rw-r-----@  1 shogo  staff     693195  1 21 18:17 2014_秋学期_火5_提出レポート_15.zip
+drwxr-xr-x@  5 shogo  staff        170  1 21 18:18 2014_秋学期_火5_レポート提出状況一覧_15
+drwxr-xr-x@  9 shogo  staff        306  2  9 22:03 2014年度提出要領(3月修了)
+-rw-r-----@  1 shogo  staff     750453  2 10 21:30 2014年度提出要領(3月修了) (1).zip
+drwxr-xr-x@  9 shogo  staff        306  2 10 21:30 2014年度提出要領(3月修了) 2
+-rw-r-----@  1 shogo  staff     750453  2  9 22:02 2014年度提出要領(3月修了).zip
+-rw-r-----@  1 shogo  staff     732109  1 28 19:14 Arencibia Piratelli_A Metrological contribution to the diagnosis_BJAST 2014.pdf
+-rw-r-----@  1 shogo  staff     225891  2  8 23:13 Chapter3 (1).pdf
+-rw-r-----@  1 shogo  staff     225891  2  8 23:11 Chapter3.pdf
+-rw-r-----@  1 shogo  staff        527  1 31 10:53 CommentsToAuthor.txt
+-rw-r-----@  1 shogo  staff   45028935  1 17 11:54 GoogleEarthMac-Intel.dmg
+drwxrwxrwx@ 10 shogo  staff        340  2 11 23:13 IEEE_template
+-rw-r-----@  1 shogo  staff      83992  2 11 23:13 IEEE_template.zip
+-rw-r-----@  1 shogo  staff  121345294  2  3 16:54 IMG_0369.MOV
+-rw-r-----@  1 shogo  staff     316527  2  2 12:34 IMG_1288.JPG
+-rw-r-----@  1 shogo  staff     915945  2 12 11:38 IROS2008-0075.pdf
+-rw-r-----@  1 shogo  staff    4173172  2  4 10:52 MAQ00005.mov
+-rw-r-----@  1 shogo  staff    5240003  2  4 10:53 Overpasses_F_7_8_13.mov
+-rw-r-----@  1 shogo  staff       3155  1 31 10:54 Review7103.txt
+drwxr-xr-x@  3 shogo  staff        102  3 10  2009 SMDSilhouette
+-rw-r-----@  1 shogo  staff    1004024  1 31 16:08 SMDSilhouettes.zip
+-rw-r-----@  1 shogo  staff    2981504  2  9 02:02 Setup_FileViewPro_[2015].exe
+-rw-r-----@  1 shogo  staff    8036167  2  4 10:54 ThruTrussBridge_F10.mov
+-rw-r-----@  1 shogo  staff    2353391  1 28 18:30 becker11irosws (1).pdf
+-rw-r-----@  1 shogo  staff    2353391  1 28 18:35 becker11irosws (2).pdf
+-rw-r-----@  1 shogo  staff    2353391  1 28 18:28 becker11irosws.pdf
+-rw-r-----@  1 shogo  staff  335194949  2 16 00:59 ceres_blackout.mp4
+drwxr-xr-x   7 shogo  staff        238  1 22 14:27 data
+-rw-r-----@  1 shogo  staff        473  1 26 13:40 ex2_test_result (1).csv
+-rw-r-----@  1 shogo  staff        473  1 26 13:53 ex2_test_result (2).csv
+-rw-r-----@  1 shogo  staff        473  1 26 13:39 ex2_test_result.csv
+-rw-r-----@  1 shogo  staff        396  2 12 00:21 figure04 (1).tex
+-rw-r-----@  1 shogo  staff        396  2 12 00:29 figure04 (2).tex
+-rw-r--r--   1 shogo  staff          0  2 12 00:29 figure04.aux
+-rw-r--r--   1 shogo  staff          0  2 12 00:29 figure04.log
+-rw-r-----@  1 shogo  staff        396  2  5 23:10 figure04.tex
+-rw-r-----@  1 shogo  staff        873  2 11 19:49 figure04ab.tex
+-rw-r-----@  1 shogo  staff     477258  1 31 17:52 g2o.pdf
+-rw-r-----@  1 shogo  staff    1089189  2  8 23:13 intergeo_297x2102.pdf
+-rw-r--r--@  1 shogo  staff   59544135 12 19 02:27 jre-8u31-macosx-x64.dmg
+-rw-r--r--   1 shogo  staff          0  3 19 00:21 list.txt
+-rw-------@  1 shogo  staff       1196  2  1 17:20 makkuro_qvga.pdf
+drwxr-xr-x   3 shogo  staff        102  2  8 03:00 materials
+drwxr-xr-x   3 shogo  staff        102  2  8 03:02 materials2
+-rw-r-----@  1 shogo  staff     128764  1 22 15:05 math1.pptx
+-rw-r-----@  1 shogo  staff      29696  2  4 08:13 n0100100 (1).xls
+-rw-r-----@  1 shogo  staff      29696  2 12 13:04 n0100100 (2).xls
+-rw-r-----@  1 shogo  staff      29696  2  2 16:31 n0100100.xls
+-rw-r-----@  1 shogo  staff    5252742  3 13 23:36 network1.pdf
+-rw-r-----@  1 shogo  staff      86573  2 11 06:11 robot_arm.asm.10
+-rw-r-----@  1 shogo  staff      66089  2  7 14:58 robotto_arm.CSD
+-rw-r-----@  1 shogo  staff  142754359  1 21 13:43 scilab-5.5.1-x86_64.dmg
+-rw-------@  1 shogo  staff    1092988  2 11 13:57 scilla.mind.meiji.ac.jp_scripts_cbag_ag.exe_GT_resume_reduce.pdf_page=ProjectDownload&pid=859&id=36655&notimecard=1&type=application&subtype=pdf&ct=1&.pdf
+-rw-r-----@  1 shogo  staff      60194  3 18 23:59 se.mp3
+-rw-r-----@  1 shogo  staff    1136664  2  4 11:19 sensors-14-16672.pdf
+-rw-r-----@  1 shogo  staff        367  2  5 22:10 slashbox2.tex
+-rw-r--r--@  1 shogo  staff     641891  1 31 16:09 smdsilhouette.png
+-rw-r-----@  1 shogo  staff      16874  1 28 16:45 stanley_header.jpg
+drwxr-xr-x  12 shogo  staff        408  3 17 11:43 test
+-rw-r--r--@  1 shogo  staff   39956416  1 26 18:02 test.mp4
+-rw-r-----@  1 shogo  staff     550374  3  7 22:18 tokyo_yaesu_ekiekieki.PNG
+-rw-r--r--   1 shogo  staff          8  1 24 22:04 web00231.aux
+-rw-r--r--   1 shogo  staff       1552  1 24 22:04 web00231.dvi
+-rw-r--r--   1 shogo  staff       1864  1 31 02:33 web00231.log
+-rw-r--r--   1 shogo  staff       8704  1 24 22:04 web00231.pdf
+-rw-r-----@  1 shogo  staff        572  1 24 22:04 web00231.tex
+-rw-------@  1 shogo  staff     526461  2  4 08:15 www.stat.go.jp_data_nihon_pdf_n0100000.pdf
+drwxr-xr-x@  5 shogo  staff        170  1 20 13:14 生田(M2)
+-rw-r-----@  1 shogo  staff     124372  2  9 22:00 生田(M2) (1).zip
+drwxr-xr-x@  5 shogo  staff        170  2  9 22:01 生田(M2) 2
+-rw-r-----@  1 shogo  staff     124372  1 20 13:14 生田(M2).zip
+drwxr-xr-x   6 shogo  staff        204  2 18 19:20 審査報告書
+-rw-r--r--   1 shogo  staff      43387  2 18 19:21 審査報告書.zip
+-rw-r-----@  1 shogo  staff    3123200  2 11 13:17 報告書様式（明治2014）.ppt
+-rw-------@  1 shogo  staff    7058512  1 19 11:42 情報処理１・情報処理・演習１.pdf
